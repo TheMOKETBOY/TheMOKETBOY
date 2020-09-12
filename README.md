@@ -1,8 +1,11 @@
 ### Hi there ! It's Sam 👋
 
+<a href="https://www.twitch.tv/themoketboy">
+  <img align="left" alt="TheMOKETBOY | Twitch " width="21px" src="http://assets.stickpng.com/images/580b57fcd9996e24bc43c540.png" />
+</a>
 
-I am a french IT Student.
-
+I am a french IT Student.I am passionate about IT development and cyber security.
+- 🔭 I’m currently studing  on EPSI 
 - 🌱 I’m currently learning Cybersecurity, Java & TypeScript
 
 **Languages and Tools:**  
@@ -11,19 +14,23 @@ I am a french IT Student.
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
 <code><img height="20" src="https://img2.freepng.fr/20180831/iua/kisspng-c-programming-language-logo-microsoft-visual-stud-atlas-portfolio-5b89919299aab1.1956912415357423546294.jpg"></code>
-
+<code><img height="20" src="https://img2.freepng.fr/20180515/zxe/kisspng-jenkins-docker-continuous-delivery-installation-so-5afa799e222331.1197773615263645741398.jpg"></code>
+<code><img height="20" src="https://img2.freepng.fr/20180805/iot/kisspng-logo-java-runtime-environment-programming-language-java-util-concurrentmodificationexception-Ömer-5b6766ab2d98b8.1809687115335031471868.jpg"></code>
+<code><img height="20" src="https://4.bp.blogspot.com/-rtNRVM3aIvI/XJX_U07Z-II/AAAAAAAAJXY/YpdOo490FTgdKOxM4qDG-2-EzcNFAWkKACK4BGAYYCw/s640/logo%2Bfirebase%2Bicon.png"></code>
 *My Github Stats* 
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://github.com/TheMOKETBOY">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=TheMOKETBOY&show_icons=true&theme=radical" alt="Sam's github stats" />
 </a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://github.com/TheMOKETBOY">
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=TheMOKETBOY&layout=compact&theme=radical" />
 </a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://github.com/TheMOKETBOY/GoSecuri_EpsiB3">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=TheMOKETBOY&repo=GoSecuri_EpsiB3&theme=radical" />
-</a>    
+</a>
+
+
 
 
 <!--
