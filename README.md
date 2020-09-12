@@ -19,6 +19,7 @@ I am a french IT Student.I am passionate about IT development and cyber security
 <code><img height="20" src="https://4.bp.blogspot.com/-rtNRVM3aIvI/XJX_U07Z-II/AAAAAAAAJXY/YpdOo490FTgdKOxM4qDG-2-EzcNFAWkKACK4BGAYYCw/s640/logo%2Bfirebase%2Bicon.png"></code>
 
 *My Github Stats* 
+*NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github, it's a new feature of [github-readme-stats](https://github.com/anuraghazra/github-readme-stats)*
 
 <a href="https://github.com/TheMOKETBOY">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=TheMOKETBOY&show_icons=true&theme=radical" alt="Sam's github stats" />
@@ -26,10 +27,17 @@ I am a french IT Student.I am passionate about IT development and cyber security
 <a href="https://github.com/TheMOKETBOY">
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=TheMOKETBOY&layout=compact&theme=radical" />
 </a>
+
 <a href="https://github.com/TheMOKETBOY/GoSecuri_EpsiB3">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=TheMOKETBOY&repo=GoSecuri_EpsiB3&theme=radical" />
 </a>
+<a href="https://github.com/anuraghazra/anuraghazra.github.io">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=anuraghazra&repo=anuraghazra.github.io&theme=radical" />
+</a>
+
+
 
 
 
