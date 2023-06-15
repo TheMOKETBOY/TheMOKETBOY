@@ -8,7 +8,7 @@
 <br />
 
 I am a french IT Student.I am passionate about IT development and cyber security.
-- 🔭 I’m currently studing  on EPSI 
+- 🔭 Ex EPSI Student 
 - 🌱 I’m currently learning Cybersecurity, Java & TypeScript
 
 **Languages and Tools:**  
