@@ -9,7 +9,7 @@
 
 I am passionate about IT development and cyber security.
 - 🔭 Ex EPSI Student 
-- 🌱 I’m currently learning Cybersecurity, Java & TypeScript
+- 🌱 I’m currently learning Cybersecurity & Data Analysis
 
 **Languages and Tools:**  
 
